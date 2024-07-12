@@ -87,13 +87,13 @@
 		 사용자가 AI가 생성한 결과를 신뢰할 수 있도록 시스템에서 특정 결과를 생성하게 된 과정을 단계별로 설명할 수 있는 AI를 개발
 		 AI 모델의 복잡한 블랙박스를 투명하게 보여줌
 		 Surrogate Model, SHAP, LIME 방식으로 구현되고 있음.
-		 [최근 anthropic에서 발표한 설명가능한 AI 리포트] (https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
+		 [최근 anthropic에서 발표한 설명가능한 AI 리포트](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 	기업별 인공지능 윤리 선언
-		[IBM - 책임감 있는 AI에 대한 IBM의 원칙] (https://www.ibm.com/kr-ko/impact/ai-ethics)
-		[Google - 우리의 원칙] (Our Principles, https://ai.google/responsibility/principles/)
+		[IBM - 책임감 있는 AI에 대한 IBM의 원칙](https://www.ibm.com/kr-ko/impact/ai-ethics)
+		[Google - 우리의 원칙](Our Principles, https://ai.google/responsibility/principles/)
 		Google Cloud의 Vision API에서 성별 라벨 삭제
 		Explainable Al, Model Cards, Tensorflow Opensource toolkit
-		[와중에 OpenAI의 경우 윤리담당자의 해고가 있었음] https://www.chosun.com/economy/tech_it/2024/05/20/L56VCDZV6JHHVFHRIRGA7S617U/)
+		[와중에 OpenAI의 경우 윤리담당자의 해고가 있었음]https://www.chosun.com/economy/tech_it/2024/05/20/L56VCDZV6JHHVFHRIRGA7S617U/)
 향후 인공지능의 전망과 윤리 논쟁의 전망?
 	1. 전문성의 증가
 		- 인간 수준의 전문성을 갖춘 인공지능이 증가할 것임.
