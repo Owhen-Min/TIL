@@ -12,4 +12,4 @@
 
 ## PYTHON
 
-- [DAY01][https://github.com/Owhen-Min/TIL/tree/master/PYTHON]
+- [DAY01](https://github.com/Owhen-Min/TIL/tree/master/PYTHON)
