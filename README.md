@@ -10,3 +10,6 @@
 
 ## 각 폴더마다 가지는 과목이 있으며, 하위 폴더로 챕터를 나눌 계획
 
+## PYTHON
+
+- [DAY01][https://github.com/Owhen-Min/TIL/tree/master/PYTHON]
