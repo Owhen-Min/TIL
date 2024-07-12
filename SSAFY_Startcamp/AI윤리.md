@@ -90,10 +90,10 @@
 		 [최근 anthropic에서 발표한 설명가능한 AI 리포트](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 	기업별 인공지능 윤리 선언
 		[IBM - 책임감 있는 AI에 대한 IBM의 원칙](https://www.ibm.com/kr-ko/impact/ai-ethics)
-		[Google - 우리의 원칙](Our Principles, https://ai.google/responsibility/principles/)
+		[Google - 우리의 원칙](https://ai.google/responsibility/principles/)
 		Google Cloud의 Vision API에서 성별 라벨 삭제
 		Explainable Al, Model Cards, Tensorflow Opensource toolkit
-		[와중에 OpenAI의 경우 윤리담당자의 해고가 있었음]https://www.chosun.com/economy/tech_it/2024/05/20/L56VCDZV6JHHVFHRIRGA7S617U/)
+		[와중에 OpenAI의 경우 윤리담당자의 해고가 있었음](https://www.chosun.com/economy/tech_it/2024/05/20/L56VCDZV6JHHVFHRIRGA7S617U/)
 향후 인공지능의 전망과 윤리 논쟁의 전망?
 	1. 전문성의 증가
 		- 인간 수준의 전문성을 갖춘 인공지능이 증가할 것임.
